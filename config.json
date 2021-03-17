@@ -1,7 +1,7 @@
 {
-    "enexSource": "/test/data/test-template.enex",
-    "templateFile": "/sampleTemplate.tmpl",
-    "outputDir": "out",
+    "enexSource": "/Users/urai/Downloads/EvernoteExport/",
+    "templateFile": "/Users/urai/Documents/code/yarle/sampleTemplate.tmpl",
+    "outputDir": "/Users/urai/Dropbox/ObsidianMD/",
     "keepOriginalHtml": false,
     "isMetadataNeeded": false,
     "isNotebookNameNeeded": false,
@@ -14,6 +14,8 @@
     "skipWebClips": false,
     "skipTags": false,
     "useHashTags": true,
-    "outputFormat": "StandardMD",
-    "skipEnexFileNameFromOutputPath": false
+    "outputFormat": "ObsidianMD",
+    "skipEnexFileNameFromOutputPath": false,
+    "haveEnexLevelResources": false,
+    "dateFormat": "YYYY-MM-DD hh:mm"
 }
